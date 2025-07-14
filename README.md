@@ -1,6 +1,6 @@
-Privacy Policy for 光板 - 屏幕光与冥想灯
+Privacy Policy for Clear Panel - 光幕
 Effective date: July 10, 2024
-This privacy policy applies to the "光板 - 屏幕光与冥想灯" app (hereby referred to as "Application").
+This privacy policy applies to the "Clear Panel" app (hereby referred to as "Application").
 1. Data Collection
 We believe in privacy and simplicity. Our Application is designed to be a pure tool for you. Therefore, we want to be crystal clear:
 The Application does not collect, store, or transmit any personal data or usage information whatsoever.
